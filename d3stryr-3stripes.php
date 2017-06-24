@@ -109,11 +109,11 @@
 
         var d3stripesClientId = getCookie("d3stripesClientId");
         if (d3stripesClientId == "") {
-          setCookie("d3stripesClientId", "provide-a-valid-client-id-please", 365);
+          setCookie("d3stripesClientId", "d6aadd76-10c6-4b6c-bffc-33e4af2f6349", 365);
         }
         var d3stripesSiteKey = getCookie("d3stripesSiteKey");
         if (d3stripesSiteKey == "") {
-          setCookie("d3stripesSiteKey", "6Lf3NxoUAAAAAFdi90UqD0TaZSHCgINayoZnM69F", 365);
+          setCookie("d3stripesSiteKey", "6LdWyiQUAAAAAN-9AaLZj5V1ToWe55Y17IroavAg", 365);
         }
     }
   </script>
