@@ -51,7 +51,7 @@
     function checkCookie() {
 
         if (d3stripesSku == "") {
-          setCookie("d3stripesSku", "BB2911", 365);
+          setCookie("d3stripesSku", "CP9654", 365);
         }
 
 //      if (d3stripesDuplicate == "") {
@@ -64,7 +64,7 @@
 
         var d3stripesSku = getCookie("d3stripesSku");
         if (d3stripesSku == "") {
-          setCookie("d3stripesSku", "BB2911", 365);
+          setCookie("d3stripesSku", "CP9654", 365);
         }
 
 //      var d3stripesDuplicate = getCookie("d3stripesDuplicate");
